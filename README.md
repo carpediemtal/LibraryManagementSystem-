@@ -1,5 +1,5 @@
 # LibraryManagementSystem-
-基于java和MySQL实现的简易的图书馆管理系统/A Library Mangement System based on java and MySQL
+基于java和MySQL实现的简易的图书馆管理系统/A Library Mangement System based on java and MySQL，项目仍在开发中。
 # 图书馆管理系统
 
 ## 登录
